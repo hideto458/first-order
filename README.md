@@ -1,10 +1,11 @@
 # ファーストオーダーまとめる君
 
 ファーストオーダーの集計を手早く行えるアプリケーションです。
+![Preview](https://github.com/user-attachments/assets/6c562a16-7ba3-4df4-9d71-f85fe9e7251d)
 
 ## URL
 
-hoge
+https://first-order-matomerukun.netlify.app/
 
 ## 使用技術
 
