@@ -1,7 +1,7 @@
 # ファーストオーダーまとめる君
 
-ファーストオーダーの集計を手早く行えるアプリケーションです。
-![Preview](https://github.com/user-attachments/assets/6c562a16-7ba3-4df4-9d71-f85fe9e7251d)
+ファーストオーダーの集計を手早く行えるアプリケーションです。<br />
+<img width="400" alt="App Preview" src="https://github.com/user-attachments/assets/6c562a16-7ba3-4df4-9d71-f85fe9e7251d" />
 
 ## URL
 
